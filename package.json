@@ -1,19 +1,20 @@
 {
-	"name":"com.smidgenomics.unity-extensions",
-	"version":"0.6.0",
-	"displayName":"SM Extensions",
-	"description":"Misc. utility extensions for common types",
-	"repository": {
-		"type": "git",
-		"url": "git+https://github.com/Smidgens/unity-extensions.git"
-	},
-	"author":{
-		"name":"Smidgenomics",
-		"url":"https://github.com/Smidgens"
-	},
-	"keywords":[
-		"unity-extensions",
-		"extensions",
-		"smidgenomics"
-	]
+  "name": "com.smidgenomics.unity-extensions",
+  "version": "0.6.0",
+  "displayName": "SM Extensions",
+  "description": "Misc. utility extensions for common types",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smidgens/unity-extensions.git"
+  },
+  "author": {
+    "name": "Smidgenomics",
+    "url": "https://github.com/Smidgens"
+  },
+  "keywords": [
+    "unity-extensions",
+    "extensions",
+    "smidgenomics"
+  ],
+  "unity": "2022.3"
 }
