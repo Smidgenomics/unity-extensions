@@ -3,18 +3,22 @@
   "version": "0.6.0",
   "displayName": "SM Extensions",
   "description": "Misc. utility extensions for common types",
+  "license": "MIT NON-AI",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Smidgens/unity-extensions.git"
+    "url": "git+https://github.com/Smidgenomics/unity-extensions.git"
   },
   "author": {
     "name": "Smidgenomics",
-    "url": "https://github.com/Smidgens"
+    "url": "https://github.com/Smidgenomics"
   },
   "keywords": [
     "unity-extensions",
     "extensions",
     "smidgenomics"
   ],
-  "unity": "2022.3"
+  "unity": "2022.3",
+  "unityRelease": "62f2",
+  "documentationUrl": "https://github.com/Smidgenomics/unity-extensions",
+  "licensesUrl": "https://github.com/Smidgenomics/unity-extensions/blob/master/LICENSE.md"
 }
